@@ -16,7 +16,7 @@ Repositorio para hacer seguimiento de todo lo que aprendo del framework de Java 
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Apache License) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia (Apache License) - mira el archivo [LICENSE](LICENSE) para detalles
 
 ---
 ⌨️ con ❤️ por [TerciodeMarte](https://github.com/TerciodeMarte) 😊
