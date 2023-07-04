@@ -13,6 +13,7 @@ Repositorio para hacer seguimiento de todo lo que aprendo del framework de Java 
 ## Bitacora✒️
 
 * **03/07/2023** - *Introducción a Spring* || *Spring Beans*
+* **04/07/2023** - *Spring Data JPA*
 
 ## Licencia 📄
 
