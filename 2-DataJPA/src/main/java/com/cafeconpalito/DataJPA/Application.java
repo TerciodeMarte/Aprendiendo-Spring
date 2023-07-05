@@ -22,7 +22,7 @@ public class Application {
                 repository.save(c1);
                 
                 //Recuperar todos los coches
-                repository.findAll();
+                System.out.println(repository.findAll());
 	}
 
 }
