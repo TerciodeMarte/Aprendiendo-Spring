@@ -4,6 +4,8 @@ import com.cafeconpalito.rest.entities.Book;
 import com.cafeconpalito.rest.repository.BookRepository;
 import java.util.List;
 import java.util.Optional;
+
+import io.swagger.v3.oas.annotations.Hidden;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.ResponseEntity;
@@ -114,6 +116,7 @@ public class BookController {
         return ResponseEntity.ok(result);
     }
    @DeleteMapping("/api/books/{id}")
+   @Hidden
    public ResponseEntity<Object> delete(@PathVariable Integer id){
        if (!repo.existsById(id)) {
             log.warn("No existe el libro para borrar");
