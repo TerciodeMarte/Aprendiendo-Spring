@@ -18,6 +18,7 @@ Repositorio para hacer seguimiento de todo lo que aprendo del framework de Java 
 * **09/07/2023** - *Metodos HTTP Rest*
 * **10/07/2023** - *Swagger || Testing*
 * **11/07/2023** - *Ejercicios de Repaso || Deploy*
+* **17/07/2023** - *Deploy on Cloud || Spring Security*
 
 ## Licencia 📄
 
