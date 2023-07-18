@@ -13,12 +13,13 @@ Repositorio para hacer seguimiento de todo lo que aprendo del framework de Java 
 ## Bitacora✒️
 
 * **03/07/2023** - *Introducción a Spring* || *Spring Beans*
-* **04/07/2023** - *Spring Data JPA*
+* **04/07/2023** - *Spring Data JPA H2*
 * **05/07/2023** - *Creacion de Aplicación REST con Spring Boot*
 * **09/07/2023** - *Metodos HTTP Rest*
 * **10/07/2023** - *Swagger || Testing*
 * **11/07/2023** - *Ejercicios de Repaso || Deploy*
 * **17/07/2023** - *Deploy on Cloud || Spring Security*
+* **18/07/2023** - *Tipos de cifrado || Spring Data JPA MySQL*
 
 ## Licencia 📄
 
