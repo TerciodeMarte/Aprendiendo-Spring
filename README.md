@@ -21,7 +21,7 @@ Repositorio para hacer seguimiento de todo lo que aprendo del framework de Java 
 * **17/07/2023** - *Deploy on Cloud || Spring Security*
 * **18/07/2023** - *Tipos de cifrado || Spring Data JPA MySQL*
 * **24/07/2023** - *Spring Security JWT*
-* **25/07/2023** - *Cierran la web, dejo el curso en stand by*
+* **26/07/2023** - *Spring Security Oauth*
 
 ## Licencia 📄
 

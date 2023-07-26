@@ -21,8 +21,8 @@ public class WebSecurity {
         http
                 .authorizeHttpRequests(requests -> requests
                         .requestMatchers(new AntPathRequestMatcher("/hola")).permitAll()
-                        .anyRequest().authenticated())
-                .httpBasic();
+                        .anyRequest().authenticated());
+
         return http.build();
     }
     @Bean
