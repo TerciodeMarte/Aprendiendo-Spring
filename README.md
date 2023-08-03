@@ -24,6 +24,14 @@ Repositorio para hacer seguimiento de todo lo que aprendo del framework de Java 
 * **26/07/2023** - *Spring Security Oauth*
 * **01/08/2023** - *Spring Security JWT Roles (Desactualizado)*
 * **02/08/2023** - *Spring Security CSRF*
+* **03/08/2023** - *Patrones de Diseño*
+  * **Behavior**
+    * Template
+    * Chain
+  * **Creational**
+    * Builder
+    * Factory
+    * Singleton
 
 ## Licencia 📄
 
