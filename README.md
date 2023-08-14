@@ -29,9 +29,17 @@ Repositorio para hacer seguimiento de todo lo que aprendo del framework de Java 
     * Template
     * Chain
   * **Creational**
-    * Builder
     * Factory
     * Singleton
+* **14/08/2023** - *Patrones de Diseño 2*
+  * **Behavior**
+    * Strategy
+    * Observer
+  * **Creational**
+    * Builder
+  * **Structural**
+    * Proxy
+    * Decorator
 
 ## Licencia 📄
 
