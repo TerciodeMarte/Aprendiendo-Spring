@@ -40,6 +40,7 @@ Repositorio para hacer seguimiento de todo lo que aprendo del framework de Java 
   * **Structural**
     * Proxy
     * Decorator
+* **15/08/2023** - *Deploy on Cloud With JPA || Maven || Excepciones* **FINAL DE CURSO**
 
 ## Licencia 📄
 
