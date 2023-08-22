@@ -4,13 +4,18 @@ Repositorio para hacer seguimiento de todo lo que aprendo del framework de Java 
 ## Pre-requisitos 📋
 
 ### Curso
-* [Open Bootcamp](https://open-bootcamp.com/) - Curso de Spring
+* [Open Bootcamp](https://open-bootcamp.com/) - Curso de Spring para empezar con spring
+* [Píldoras Informaticas](https://www.pildorasinformaticas.es/) - Curso de Spring para repasar y aprender cosas nuevas
 
 ### Software
 * [Netbeans](https://netbeans.apache.org/) - Entorno de Desarrollo
 * [Spring](https://spring.io/) - Framework
+* [Spring initializr](https://start.spring.io/) - Inicializador de proyecto spring
+* [Maven repository](https://mvnrepository.com/) - Repositorio de Maven
   
 ## Bitacora✒️
+
+_**CURSO OPEN BOOTCAMP**_
 
 * **03/07/2023** - *Introducción a Spring* || *Spring Beans*
 * **04/07/2023** - *Spring Data JPA H2*
@@ -40,8 +45,12 @@ Repositorio para hacer seguimiento de todo lo que aprendo del framework de Java 
   * **Structural**
     * Proxy
     * Decorator
-* **15/08/2023** - *Deploy on Cloud With JPA || Maven || Excepciones* **FINAL DE CURSO**
+* **15/08/2023** - *Deploy on Cloud With JPA || Maven || Excepciones* 
 
+_**FINAL DE CURSO OPENBOOTCAMP**_
+
+**_CURSO PÍLDORAS INFORMATICAS_**
+* **22/08/2023** - *Spring Core* || *Preparar IDE* || *Inversion of control* - *Videos 1-8*
 ## Licencia 📄
 
 Este proyecto está bajo la Licencia (Apache License) - mira el archivo [LICENSE](LICENSE) para detalles
