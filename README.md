@@ -16,7 +16,7 @@ Repositorio para hacer seguimiento de todo lo que aprendo del framework de Java 
   
 ## Bitacora✒️
 
-_**CURSO OPEN BOOTCAMP**_
+### CURSO OPEN BOOTCAMP
 
 * **03/07/2023** - *Introducción a Spring* || *Spring Beans*
 * **04/07/2023** - *Spring Data JPA H2*
@@ -48,9 +48,9 @@ _**CURSO OPEN BOOTCAMP**_
     * Decorator
 * **15/08/2023** - *Deploy on Cloud With JPA || Maven || Excepciones* 
 
-_**FINAL DE CURSO OPENBOOTCAMP**_
+### FINAL DE CURSO OPENBOOTCAMP
 
-**_CURSO PÍLDORAS INFORMATICAS_**
+### CURSO PÍLDORAS INFORMATICAS
 * **22/08/2023** 
   * *Spring Core* - *Videos 1-3*  
   * *Preparar IDE* - *Videos 4-5*
@@ -59,9 +59,16 @@ _**FINAL DE CURSO OPENBOOTCAMP**_
   * *Inyección de Dependencias* - *Videos 9-12* 
   * *Patron Singleton y Prototype* - *Video 13* 
   * *Ciclo de vida del bean* - *Video 14*
+  * **Annotations** - *Videos 15-25*
+    * *@Component* - *Video 16*
+    * *@Autowired* - *Videos 17-19*
+    * *@Qualifier* - *Video 20*
+    * *@Scope* - *Video 21*
+    * *@Postconstruct y @Predestroy* - *Video 22*
+    * *@Configuration y @ComponentScan* - *Video 23*
+    * *@Bean* - *Video 24*
+    * *@Propertysource y @Value* - *Video 25*
 
-**_CURSO PÍLDORAS INFORMATICAS_**
-* **22/08/2023** - *Spring Core* || *Preparar IDE* || *Inversion of control* - *Videos 1-8*
 ## Licencia 📄
 
 Este proyecto está bajo la Licencia (Apache License) - mira el archivo [LICENSE](LICENSE) para detalles
