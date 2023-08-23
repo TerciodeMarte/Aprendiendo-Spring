@@ -11,6 +11,7 @@ Repositorio para hacer seguimiento de todo lo que aprendo del framework de Java 
 * [Netbeans](https://netbeans.apache.org/) - Entorno de Desarrollo
 * [Spring](https://spring.io/) - Framework
 * [Spring initializr](https://start.spring.io/) - Inicializador de proyecto spring
+* [Apache Tomcat](https://tomcat.apache.org/) - Servidor Java
 * [Maven repository](https://mvnrepository.com/) - Repositorio de Maven
   
 ## Bitacora✒️
@@ -50,7 +51,15 @@ _**CURSO OPEN BOOTCAMP**_
 _**FINAL DE CURSO OPENBOOTCAMP**_
 
 **_CURSO PÍLDORAS INFORMATICAS_**
-* **22/08/2023** - *Spring Core* || *Preparar IDE* || *Inversion of control* - *Videos 1-8*
+* **22/08/2023** 
+  * *Spring Core* - *Videos 1-3*  
+  * *Preparar IDE* - *Videos 4-5*
+  * *Inversion of control* - *Videos 6-8*
+* **23/08/2023** 
+  * *Inyección de Dependencias* - *Videos 9-12* 
+  * *Patron Singleton y Prototype* - *Video 13* 
+  * *Ciclo de vida del bean* - *Video 14*
+
 ## Licencia 📄
 
 Este proyecto está bajo la Licencia (Apache License) - mira el archivo [LICENSE](LICENSE) para detalles
