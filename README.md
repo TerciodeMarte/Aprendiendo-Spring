@@ -52,22 +52,28 @@ Repositorio para hacer seguimiento de todo lo que aprendo del framework de Java 
 
 ### CURSO PÍLDORAS INFORMATICAS
 * **22/08/2023** 
-  * *Spring Core* - *Videos 1-3*  
-  * *Preparar IDE* - *Videos 4-5*
-  * *Inversion of control* - *Videos 6-8*
+  * Spring Core - *Videos 1-3*  
+  * Preparar IDE - *Videos 4-5*
+  * Inversion of control - *Videos 6-8*
 * **23/08/2023** 
-  * *Inyección de Dependencias* - *Videos 9-12* 
-  * *Patron Singleton y Prototype* - *Video 13* 
-  * *Ciclo de vida del bean* - *Video 14*
+  * Inyección de Dependencias - *Videos 9-12* 
+  * Patron Singleton y Prototype - *Video 13* 
+  * Ciclo de vida del bean - *Video 14*
   * **Annotations** - *Videos 15-25*
-    * *@Component* - *Video 16*
-    * *@Autowired* - *Videos 17-19*
-    * *@Qualifier* - *Video 20*
-    * *@Scope* - *Video 21*
-    * *@Postconstruct y @Predestroy* - *Video 22*
-    * *@Configuration y @ComponentScan* - *Video 23*
-    * *@Bean* - *Video 24*
-    * *@Propertysource y @Value* - *Video 25*
+    * @Component - *Video 16*
+    * @Autowired - *Videos 17-19*
+    * @Qualifier - *Video 20*
+    * @Scope - *Video 21*
+    * @Postconstruct y @Predestroy - *Video 22*
+    * @Configuration y @ComponentScan - *Video 23*
+    * @Bean - *Video 24*
+    * @Propertysource y @Value - *Video 25*
+* **24/08/2023**
+  * **Aplicaciones Web** - *Videos 26-33*
+    * Modelo Vista Controlador - *Videos 26-31*
+    * Archivos War - *Video 31*
+    * @RequestParam - *Video 32*
+    * @RequestMapping (Conflicto de rutas) - *Video 33*
 
 ## Licencia 📄
 
