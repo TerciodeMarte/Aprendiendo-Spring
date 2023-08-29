@@ -13,6 +13,7 @@ Repositorio para hacer seguimiento de todo lo que aprendo del framework de Java 
 * [Spring initializr](https://start.spring.io/) - Inicializador de proyecto spring
 * [Apache Tomcat](https://tomcat.apache.org/) - Servidor Java
 * [Maven repository](https://mvnrepository.com/) - Repositorio de Maven
+* [Hibernate](https://hibernate.org/) - ORM (Object-Relational mapping)
   
 ## Bitacora✒️
 
@@ -76,6 +77,13 @@ Repositorio para hacer seguimiento de todo lo que aprendo del framework de Java 
     * @RequestMapping (Conflicto de rutas) - *Video 33*
 * **29/08/2023**
   * Formularios MVC - *Videos 34-37*
+  * **Validación de Formularios** - *Videos 38-45*
+    * Bean Validation || Hibernate Validation Library  - *Video 38*
+    * Validaciones Básicas - *Videos 39-40*
+    * Validaciones Espacios en blanco(@InitBinder) - *Video 41*
+    * Expresiones Regulares - *Video 42*
+    * Messages.properties - *Video 43*
+    * Validaciones Personalizadas - *Videos 44-45*
 
 ## Licencia 📄
 
