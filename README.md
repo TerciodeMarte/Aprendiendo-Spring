@@ -84,6 +84,13 @@ Repositorio para hacer seguimiento de todo lo que aprendo del framework de Java 
     * Expresiones Regulares - *Video 42*
     * Messages.properties - *Video 43*
     * Validaciones Personalizadas - *Videos 44-45*
+* **31/08/2023**
+  * **Hibernate** parte 1 - *Videos 46-52*
+    * Introducción y configuración - *Videos 46-48*
+    * Insert - *Video 49*
+    * Primary Key(@GeneratedValue) - *Video 50*
+    * Select - *Video 51*
+    * Update y Delete *Video 52*
 
 ## Licencia 📄
 
