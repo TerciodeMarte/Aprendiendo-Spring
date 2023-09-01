@@ -91,6 +91,12 @@ Repositorio para hacer seguimiento de todo lo que aprendo del framework de Java 
     * Primary Key(@GeneratedValue) - *Video 50*
     * Select - *Video 51*
     * Update y Delete *Video 52*
+* **01/09/2023**
+  * **Hibernate** parte 2 - *Videos 53-59*
+    * Teoría Relaciones entre Tablas - *Video 53*
+    * Relación 1-1 - *Videos 54-57*
+    * Leak(Fuga de Memoria) - *Video 58*
+    * Eliminar foreign key - *Video 59*
 
 ## Licencia 📄
 
