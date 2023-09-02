@@ -97,6 +97,10 @@ Repositorio para hacer seguimiento de todo lo que aprendo del framework de Java 
     * Relación 1-1 - *Videos 54-57*
     * Leak(Fuga de Memoria) - *Video 58*
     * Eliminar foreign key - *Video 59*
+* **02/09/2023**
+  * **Hibernate** parte 3 - *Videos 60-65*
+    * Relación 1-N - *Videos 60-63*
+    * FetchType Eager vs FetchType Lazy - *Videos 64-65*
 
 ## Licencia 📄
 
